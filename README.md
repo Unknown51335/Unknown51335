@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# 记得要经常记录自己学习积累的东西呀！😀
+
 <!--
 **Unknown51335/Unknown51335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
